@@ -7,5 +7,5 @@ The model from the thesis is an adaptation of the [CLIMADA Model](https://github
 ## Dataset
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16980095.svg)](https://doi.org/10.5281/zenodo.16980095)
 
-All data required for developing the CLIMADA Model and reproducing the results discussed in the thesis is available on [Zenodo](https://doi.org/10.5281/zenodo.16980095)(2025).
+All data required for developing the CLIMADA Model and reproducing the results discussed in the thesis is available on [Zenodo](https://doi.org/10.5281/zenodo.16980095) (2025).
 
